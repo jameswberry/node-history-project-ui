@@ -1,0 +1,26 @@
+{
+  "name": "node-history-ui",
+  "description": "History Project UI",
+  "author": "James W. Berry <supnowsucka@gmail.com>",
+  "license": "ISC",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jameswberry/node-history-project-ui"
+  },
+  "bugs": {
+    "url": "https://github.com/jameswberry/node-history-project-ui/issues"
+  },
+  "homepage": "https://github.com/jameswberry/node-history-project-ui",
+  "keywords": [],
+  "main": "app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "swagger project test"
+  }
+}
